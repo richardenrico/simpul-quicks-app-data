@@ -1,0 +1,46 @@
+{
+    "chat-list": [
+        {
+            "id": 1,
+            "chat": "I recently watched an interesting documentary. Let me know if you want to know more!",
+            "groupSender": "Bob",
+            "isGroup": true,
+            "newMessage": true,
+            "time": 1676563100000,
+            "title": "Group Chat A"
+        },
+        {
+            "id": 2,
+            "chat": "Hello!",
+            "groupSender": "Group B",
+            "isGroup": true,
+            "newMessage": false,
+            "time": 1676563200000,
+            "title": "Group Chat B"
+        },
+        {
+            "id": 3,
+            "chat": "Not much planned, just relaxing. What about you, any interesting projects?",
+            "isGroup": false,
+            "newMessage": true,
+            "time": 1638210373000,
+            "title": "Bob"
+        },
+        {
+            "id": 4,
+            "chat": "Not much planned, just relaxing. What about you, any interesting projects?",
+            "isGroup": false,
+            "newMessage": false,
+            "time": 1636634374000,
+            "title": "Charlie"
+        },
+        {
+            "id": 5,
+            "chat": "Hey there. Welcome to your inbox! Contact us for more information and help about anything! We'll send you a response as soon as possible.",
+            "isGroup": false,
+            "newMessage": false,
+            "time": 1636634373000,
+            "title": "FastVisa Support"
+        }
+    ]
+}
