@@ -1,14 +1,9 @@
 {
-  "name": "fake-server",
-  "version": "1.0.0",
-  "description": "fake server with fake database",
   "main": "server.js",
-  "scripts": { 
-    "start": "node server.js" 
+  "scripts": {
+    "start": "node server.js"
   },
-  "author": "Youssef Zidan",
-  "license": "ISC",
   "dependencies": {
-    "json-server": "^1.0.0-alpha-13"
+    "json-server": "^1.0.0-alpha.13"
   }
 }
