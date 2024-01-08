@@ -230,7 +230,7 @@
         {
             "id": 2,
             "title": "Cross-reference with Jeanne",
-            "deadline": null,
+            "deadline": 1704845800,
             "description": "",
             "completed": false
         }
