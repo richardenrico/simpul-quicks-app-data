@@ -193,7 +193,18 @@
             "deadline": 1704844800,
             "description": "",
             "completed": false,
-            "tags": []
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "Important ASAP",
+                    "color": "#E5F1FF"
+                },
+                {
+                    "id": 2,
+                    "name": "Offline Meeting",
+                    "color": "#FDCFA4"
+                }
+            ]
         },
         {
             "id": 2,
