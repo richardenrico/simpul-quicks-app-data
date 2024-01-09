@@ -57,7 +57,7 @@
                                 "mode": "receiver",
                                 "receiverMode": 1,
                                 "sender": "Bob",
-                                "message": "Hey Alice! My day is going well. Just finished a workout. How about you?",
+                                "message": "Hey Alice! My day is going well. How about you?",
                                 "timestamp": 1676564000,
                                 "isRead": true
                             },
@@ -65,7 +65,7 @@
                                 "mode": "receiver",
                                 "receiverMode": 2,
                                 "sender": "Charlie",
-                                "message": "Hello! I'm good, thanks. Working on some coding projects. How about you, Alice?",
+                                "message": "Hello! I'm good, thanks. How about you, Alice?",
                                 "timestamp": 1676564800,
                                 "isRead": true
                             }
@@ -78,7 +78,7 @@
                                 "mode": "sender",
                                 "receiverMode": 0,
                                 "sender": "Alice",
-                                "message": "I'm doing great! Just exploring a new hobby and enjoying my time. Bob, any exciting plans for the evening?",
+                                "message": "I'm doing great! Bob, any exciting plans for the evening?",
                                 "timestamp": 1641429600,
                                 "isRead": true
                             },
@@ -86,7 +86,7 @@
                                 "mode": "receiver",
                                 "receiverMode": 1,
                                 "sender": "Bob",
-                                "message": "Thinking about watching a movie later. Charlie, what coding projects are you diving into?",
+                                "message": "Thinking about watching a movie later.",
                                 "timestamp": 1641430400,
                                 "isRead": true
                             },
@@ -94,16 +94,8 @@
                                 "mode": "receiver",
                                 "receiverMode": 2,
                                 "sender": "Charlie",
-                                "message": "Experimenting with a new algorithm. It's quite fascinating. Bob, got any movie recommendations?",
+                                "message": "Bob, got any movie recommendations?",
                                 "timestamp": 1641431200,
-                                "isRead": false
-                            },
-                            {
-                                "mode": "receiver",
-                                "receiverMode": 1,
-                                "sender": "Bob",
-                                "message": "I recently watched an interesting documentary. Let me know if you want to know more!",
-                                "timestamp": 1641432000,
                                 "isRead": false
                             }
                         ]
@@ -132,7 +124,7 @@
                                 "mode": "receiver",
                                 "receiverMode": 1,
                                 "sender": "Bob",
-                                "message": "Hey Alice! Just finished a workout. Feeling energized. How about you?",
+                                "message": "Hey Alice! Just finished a workout. How about you?",
                                 "timestamp": 1641428000,
                                 "isRead": true
                             },
@@ -140,7 +132,7 @@
                                 "mode": "receiver",
                                 "receiverMode": 2,
                                 "sender": "Charlie",
-                                "message": "Hi Alice! Working on some coding challenges today. What's keeping you busy?",
+                                "message": "Hi Alice! Working on some coding challenges today.",
                                 "timestamp": 1641428800,
                                 "isRead": true
                             }
@@ -178,7 +170,7 @@
                                 "mode": "sender",
                                 "receiverMode": 0,
                                 "sender": "Alice",
-                                "message": "I'm good too, just catching up on some work. Any exciting plans for the day?",
+                                "message": "I'm good too. Any exciting plans for the day?",
                                 "timestamp": 1676565600,
                                 "isRead": true
                             },
@@ -186,7 +178,7 @@
                                 "mode": "receiver",
                                 "receiverMode": 1,
                                 "sender": "Charlie",
-                                "message": "Not much planned, just relaxing. What about you, any interesting projects?",
+                                "message": "Not much planned, just relaxing.",
                                 "timestamp": 1676566400,
                                 "isRead": true
                             }
@@ -233,6 +225,48 @@
             "deadline": 1704845800,
             "description": "",
             "completed": false
+        }
+    ],
+    "tags": [
+        {
+            "id": 1,
+            "name": "Important ASAP",
+            "color": "#E5F1FF"
+        },
+        {
+            "id": 2,
+            "name": "Offline Meeting",
+            "color": "#FDCFA4"
+        },
+        {
+            "id": 3,
+            "name": "Virtual Meeting",
+            "color": "#F9E9C3"
+        },
+        {
+            "id": 4,
+            "name": "ASAP",
+            "color": "#AFEBDB"
+        },
+        {
+            "id": 5,
+            "name": "Client Related",
+            "color": "#CBF1C2"
+        },
+        {
+            "id": 6,
+            "name": "Self Task",
+            "color": "#CFCEF9"
+        },
+        {
+            "id": 7,
+            "name": "Appointments",
+            "color": "#F9E0FD"
+        },
+        {
+            "id": 8,
+            "name": "Court Related",
+            "color": "#9DD0ED"
         }
     ]
 }
