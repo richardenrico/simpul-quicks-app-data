@@ -11,7 +11,7 @@
         },
         {
             "id": 2,
-            "chat": "Hi Alice! Working on some coding challenges today. What's keeping you busy?",
+            "chat": "Hi Alice! What's keeping you busy?",
             "groupSender": "Group B",
             "isGroup": true,
             "newMessage": false,
@@ -20,7 +20,7 @@
         },
         {
             "id": 3,
-            "chat": "Not much planned, just relaxing. What about you, any interesting projects?",
+            "chat": "Not much planned, just relaxing.",
             "isGroup": false,
             "newMessage": false,
             "time": 1636634374000,
@@ -43,62 +43,52 @@
                 "totalParticipants": 3,
                 "chats": [
                     {
-                        "time": 1676563200,
-                        "chats": [
-                            {
-                                "mode": "sender",
-                                "receiverMode": 0,
-                                "sender": "Alice",
-                                "message": "Hi everyone! How's your day going?",
-                                "timestamp": 1676563200,
-                                "isRead": true
-                            },
-                            {
-                                "mode": "receiver",
-                                "receiverMode": 1,
-                                "sender": "Bob",
-                                "message": "Hey Alice! My day is going well. How about you?",
-                                "timestamp": 1676564000,
-                                "isRead": true
-                            },
-                            {
-                                "mode": "receiver",
-                                "receiverMode": 2,
-                                "sender": "Charlie",
-                                "message": "Hello! I'm good, thanks. How about you, Alice?",
-                                "timestamp": 1676564800,
-                                "isRead": true
-                            }
-                        ]
+                        "mode": "sender",
+                        "receiverMode": 0,
+                        "sender": "Alice",
+                        "message": "Hi everyone! How's your day going?",
+                        "timestamp": 1676563200,
+                        "isRead": true
                     },
                     {
-                        "time": 1704697542,
-                        "chats": [
-                            {
-                                "mode": "sender",
-                                "receiverMode": 0,
-                                "sender": "Alice",
-                                "message": "I'm doing great! Bob, any exciting plans for the evening?",
-                                "timestamp": 1641429600,
-                                "isRead": true
-                            },
-                            {
-                                "mode": "receiver",
-                                "receiverMode": 1,
-                                "sender": "Bob",
-                                "message": "Thinking about watching a movie later.",
-                                "timestamp": 1641430400,
-                                "isRead": true
-                            },
-                            {
-                                "mode": "receiver",
-                                "receiverMode": 2,
-                                "sender": "Charlie",
-                                "message": "Bob, got any movie recommendations?",
-                                "timestamp": 1641431200,
-                                "isRead": false
-                            }
-                        ]
+                        "mode": "receiver",
+                        "receiverMode": 1,
+                        "sender": "Bob",
+                        "message": "Hey Alice! My day is going well. How about you?",
+                        "timestamp": 1676564000,
+                        "isRead": true
+                    },
+                    {
+                        "mode": "receiver",
+                        "receiverMode": 2,
+                        "sender": "Charlie",
+                        "message": "Hello! I'm good, thanks. How about you, Alice?",
+                        "timestamp": 1676564800,
+                        "isRead": true
+                    },
+                    {
+                        "mode": "sender",
+                        "receiverMode": 0,
+                        "sender": "Alice",
+                        "message": "I'm doing great! Bob, any exciting plans for the evening?",
+                        "timestamp": 1641429600,
+                        "isRead": true
+                    },
+                    {
+                        "mode": "receiver",
+                        "receiverMode": 1,
+                        "sender": "Bob",
+                        "message": "Thinking about watching a movie later.",
+                        "timestamp": 1641430400,
+                        "isRead": true
+                    },
+                    {
+                        "mode": "receiver",
+                        "receiverMode": 2,
+                        "sender": "Charlie",
+                        "message": "Bob, got any movie recommendations?",
+                        "timestamp": 1641431200,
+                        "isRead": false
                     }
                 ]
             }
@@ -110,33 +100,28 @@
                 "totalParticipants": 3,
                 "chats": [
                     {
-                        "time": 1676563200,
-                        "chats": [
-                            {
-                                "mode": "sender",
-                                "receiverMode": 0,
-                                "sender": "Alice",
-                                "message": "Hello everyone! How's your day going?",
-                                "timestamp": 1641427200,
-                                "isRead": true
-                            },
-                            {
-                                "mode": "receiver",
-                                "receiverMode": 1,
-                                "sender": "Bob",
-                                "message": "Hey Alice! Just finished a workout. How about you?",
-                                "timestamp": 1641428000,
-                                "isRead": true
-                            },
-                            {
-                                "mode": "receiver",
-                                "receiverMode": 2,
-                                "sender": "Charlie",
-                                "message": "Hi Alice! Working on some coding challenges today.",
-                                "timestamp": 1641428800,
-                                "isRead": true
-                            }
-                        ]
+                        "mode": "sender",
+                        "receiverMode": 0,
+                        "sender": "Alice",
+                        "message": "Hello everyone! How's your day going?",
+                        "timestamp": 1641427200,
+                        "isRead": true
+                    },
+                    {
+                        "mode": "receiver",
+                        "receiverMode": 1,
+                        "sender": "Bob",
+                        "message": "Hey Alice! Just finished a workout. How about you?",
+                        "timestamp": 1641428000,
+                        "isRead": true
+                    },
+                    {
+                        "mode": "receiver",
+                        "receiverMode": 2,
+                        "sender": "Charlie",
+                        "message": "Hi Alice! Working on some coding challenges today.",
+                        "timestamp": 1641428800,
+                        "isRead": true
                     }
                 ]
             }
@@ -148,41 +133,36 @@
                 "totalParticipants": 0,
                 "chats": [
                     {
-                        "time": 1676566400,
-                        "chats": [
-                            {
-                                "mode": "sender",
-                                "receiverMode": 0,
-                                "sender": "Alice",
-                                "message": "Hey Charlie! How you doing today?",
-                                "timestamp": 1676564000,
-                                "isRead": true
-                            },
-                            {
-                                "mode": "receiver",
-                                "receiverMode": 1,
-                                "sender": "Charlie",
-                                "message": "Hi Alice! I'm doing well, thanks. How about you?",
-                                "timestamp": 1676564800,
-                                "isRead": true
-                            },
-                            {
-                                "mode": "sender",
-                                "receiverMode": 0,
-                                "sender": "Alice",
-                                "message": "I'm good too. Any exciting plans for the day?",
-                                "timestamp": 1676565600,
-                                "isRead": true
-                            },
-                            {
-                                "mode": "receiver",
-                                "receiverMode": 1,
-                                "sender": "Charlie",
-                                "message": "Not much planned, just relaxing.",
-                                "timestamp": 1676566400,
-                                "isRead": true
-                            }
-                        ]
+                        "mode": "sender",
+                        "receiverMode": 0,
+                        "sender": "Alice",
+                        "message": "Hey Charlie! How you doing today?",
+                        "timestamp": 1676564000,
+                        "isRead": true
+                    },
+                    {
+                        "mode": "receiver",
+                        "receiverMode": 1,
+                        "sender": "Charlie",
+                        "message": "Hi Alice! I'm doing well, thanks. How about you?",
+                        "timestamp": 1676564800,
+                        "isRead": true
+                    },
+                    {
+                        "mode": "sender",
+                        "receiverMode": 0,
+                        "sender": "Alice",
+                        "message": "I'm good too. Any exciting plans for the day?",
+                        "timestamp": 1676565600,
+                        "isRead": true
+                    },
+                    {
+                        "mode": "receiver",
+                        "receiverMode": 1,
+                        "sender": "Charlie",
+                        "message": "Not much planned, just relaxing.",
+                        "timestamp": 1676566400,
+                        "isRead": true
                     }
                 ]
             }
@@ -195,17 +175,12 @@
                 "isSupport": true,
                 "chats": [
                     {
-                        "time": 1704697542,
-                        "chats": [
-                            {
-                                "mode": "receiver",
-                                "receiverMode": 1,
-                                "sender": "FastVisa Support",
-                                "message": "Hey there. Welcome to your inbox! Contact us for more information and help about anything! We'll send you a response as soon as possible.",
-                                "timestamp": 1704697542,
-                                "isRead": true
-                            }
-                        ]
+                        "mode": "receiver",
+                        "receiverMode": 1,
+                        "sender": "FastVisa Support",
+                        "message": "Hey there. Welcome to your inbox! Contact us for more information and help about anything! We'll send you a response as soon as possible.",
+                        "timestamp": 1704697542,
+                        "isRead": true
                     }
                 ]
             }
